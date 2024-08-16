@@ -1,1 +1,2 @@
-# Revenue-Insights-of-Hospitality-Domain-Power BI
+# Power BI Project
+Revenue-Insights-of-Hospitality-Domain
